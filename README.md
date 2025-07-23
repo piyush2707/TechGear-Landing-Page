@@ -12,3 +12,4 @@ A clean and animated landing page to showcase smart tech products. Built using p
 
 ## 📁 Project Structure
 ## 🌐 Live Demo 
+https://piyush2707.github.io/TechGear-Landing-Page/#products
